@@ -1,4 +1,4 @@
-# Bulk Rename Desktop App in Node.js
+# File Rename Desktop App in Node.js
 
 ---
 
